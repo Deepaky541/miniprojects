@@ -1,0 +1,27 @@
+body{
+    background-color: antiquewhite;
+}
+#navbar{
+    display:grid;
+    grid-template-columns: 10% 10% 10% 10%;
+    grid-gap: 2%;
+}
+#menu{
+    height:20%;
+    text-align: center;
+    margin: 3% 0% 0% 8%;
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%;
+    grid-gap: 2%;
+}
+img{
+    width: 100%;
+}
+button{
+    cursor: pointer;
+}
+h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}

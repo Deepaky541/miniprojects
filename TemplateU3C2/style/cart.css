@@ -1,0 +1,11 @@
+#cart{
+    height:20%;
+    text-align: center;
+    margin: 3% 0% 0% 8%;
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%;
+    grid-gap: 2%;
+}
+img{
+    width: 100%;
+}
